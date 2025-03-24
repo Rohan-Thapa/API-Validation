@@ -12,3 +12,4 @@ namespace MyCqrsApi
         public static Result<T> Fail(List<string> errors) => new() { Success = false, Errors = errors };
     }
 }
+// HandCrafted by Rohan Thapa

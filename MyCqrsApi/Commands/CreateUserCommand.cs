@@ -8,3 +8,4 @@ namespace MyCqrsApi.Commands
         public string? Email { get; set; }
     }
 }
+// HandCrafted by Rohan Thapa
